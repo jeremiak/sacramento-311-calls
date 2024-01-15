@@ -2,6 +2,8 @@
 
 Compiling 311 data for the City of Sacramento to facilitate analysis by neighborhood or time period.
 
+[![Scrape 311 data](https://github.com/jeremiak/sacramento-311-requests/actions/workflows/scrape.yml/badge.svg)](https://github.com/jeremiak/sacramento-311-requests/actions/workflows/scrape.yml)
+
 ## Motivation
 
 The city of Sacramento recommends that residents use 311 to make the city government aware of issues but does not publish the calls in a way that facilitates performance analysis and answer questions like:
